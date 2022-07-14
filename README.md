@@ -1,4 +1,4 @@
-<h3 align="center">Tech ✨</h3>
+<h3 align="center">🌱</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
